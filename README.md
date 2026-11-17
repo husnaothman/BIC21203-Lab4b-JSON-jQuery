@@ -2,7 +2,7 @@
 BIC21203 Web Development - Lab 4b
 # Lab 4b: Client-Side Scripting (JSON and jQuery)
 
-**Name:** Nur Husna BINTI Othman  
+**Name:** Nur Husna Binti Othman  
 **Student ID:** AI250068  
 **Course:** BIC21203 Web Development
 
